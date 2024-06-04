@@ -1,0 +1,7 @@
+# Node.js dependencies
+node_modules/
+
+# Ignore package.json
+package.json
+pnpm-lock.yaml
+
